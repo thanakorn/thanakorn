@@ -4,10 +4,10 @@
 
 I'm an engineer passionate about 📱 software development, 🗃 data, and 🤖 artificial intelligence living in Bangkok, Thailand. I enjoy 💻 coding, 📚 learning, 🔨 building things(especially intelligent systems), and ✍️ sharing what I’ve learned.
 
-### Projects
+### 🧑‍💻 Projects
 
 
-### 📫 How to reach me : 
+### 📫 How to reach me
 - [Personal website](https://thanakornp.com)
 - [LinkedIn](https://www.linkedin.com/in/tpanyapiang/)
 - [Medium](https://medium.com/@thanakornpanyapiang)
