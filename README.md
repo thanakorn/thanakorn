@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @thanakorn
-- 👀 I’m interested in artificial intelligence and software development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## ⌗ About Me
 
-<!---
-thanakorn/thanakorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, My name is Thanakorn
+
+I'm an engineer passionate about 📱 software development, 🗃 data, and 🤖 artificial intelligence living in Bangkok, Thailand. I enjoy 💻 coding, 📚 learning, 🔨 building things(especially intelligent systems), and ✍️ sharing what I’ve learned.
+
+###
+
+### 📫 How to reach me : 
+- [Personal website](https://thanakornp.com)
+- [LinkedIn](https://www.linkedin.com/in/tpanyapiang/)
+- [Medium](https://medium.com/@thanakornpanyapiang)
+- [Email me](mailto:thanakorn.panyapiang@gmail.com)
